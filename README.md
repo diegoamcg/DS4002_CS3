@@ -10,6 +10,8 @@ The two attached PDFs include all the instructions necessary for this case study
 
 For this assignment, follow this link here: https://astronn.readthedocs.io/en/latest/galaxy10.html#download-galaxy10-decals to download the data. Due to the size of this file, it cannot be uploaded into this repository.
 
+In DATA folder, you can see a Data Appendix for this datset. It provides details on the dataset itself, as well as some details on the steps we took towards making our data ready for analysis. 
+
 ## Reference Materials
 
 See CS3 - Hook Document.pdf for references that could be of use to this case study. It contains tips on creating a model from the people who created the dataset in this case study, a list of pytorch models that you can optionally use, and some extra context about the Nancy Grace Roman Space Telescope and galaxy types.

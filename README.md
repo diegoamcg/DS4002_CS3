@@ -16,6 +16,6 @@ See CS3 - Hook Document.pdf for references that could be of use to this case stu
 
 ## Example Code
 
-Under the example code folder, you will see a JupyterNotebook containing my own example of creating a model to classify galaxies. This may be too complex for your current knowledge, but this is an example of a decent model working with modern tools and a pretrained Pytorch model. If you want a more basic model, you can look at the second reference, but unfortunately this no longer works in modern Python environments. 
+Under the SCRIPTS folder, you will see a JupyterNotebook containing my own example of creating a model to classify galaxies. This may be too complex for your current knowledge, but this is an example of a decent model working with modern tools and a pretrained Pytorch model. If you want a more basic model, you can look at the second reference, but unfortunately this no longer works in modern Python environments. 
 
 Furthermore, it is HIGHLY recommended you run this code using UVA's High Performance Computer, Rivanna. This allows you to request more CPU cores, memory, and even a GPU. This can make the model run significantly faster compared to Google Colab, where you could experience crashes.
